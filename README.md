@@ -33,7 +33,25 @@ The steps for optimization include:
   6.The algorithm begins to find an optimal solution and returns a 'Sol' button on the bottom left corner
   \
   7.Click on the 'Sol' button and wait to view your results plotted in the sub plot and displayed on the console
+  ## 2.Dijkstras Shortest Path Algorithm
+##### Implemented using react, deployed as a GitHub page.
+## Aim: 
+Given a start position and an end position and  a number of obstacles, find the shortest path from the start node to the end node using Dijkstras shortest path algorithm.(no diagonals).
+## Implementation:
+The user interactions are enabled by using event listeners on html elements and using radio buttons.
   
+  ## How to run the project:
+  1.Enable option to choose the either start position or end position , double click anywhere on the grid to generate start position or end position based on the option enabled.
+  \
+  2.Enable the other option, double click anywhere on the grid to generate end or start position.
+  \
+  3.Click anywhere on grid to generate obstacles.
+  \
+  4.Visualise button become visible once the start and end positions are fixed.Click on the visualised button to see the visualisation.
+  \
+  5.Refresh page for trying out a new visualisation.
+find visualisation of dijkstras at:https://lathikadevraj.github.io/shortestpath/
+
   
   
   
