@@ -1,0 +1,31 @@
+.nodes {
+  font-size: 0;
+}
+.panel {
+  background-color: #07b49d;
+  display: flex;
+  flex-direction: column;
+}
+button {
+  color: #fff !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #f53b38;
+  padding: 15px;
+  border-radius: 5px;
+  display: inline-block;
+  border: none;
+  transition: all 0.4s ease 0s;
+  margin: 5px;
+}
+h1 {
+  color: rgb(243, 241, 213);
+  align-content: center;
+}
+h6{
+  color: white;
+}
+label {
+  color: rgb(233, 201, 18);
+  font-size: 20px;
+}
