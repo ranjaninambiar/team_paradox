@@ -20,7 +20,7 @@ The steps for optimization include:
    Here we select a genetic algorithm with the default parameter settings of a population size (pop_size) of 200, a mutation probability (mutation_prob) of 0.1, a maximum of 10 attempts per step (max_attempts) and no limit on the maximum total number of iteration of the algorithm (max_iters).
   
   ## How to run the project:
-  1.Since this code is embedded into HTML using Repl.it,two tabs will be visible at any time
+  1.Since this code is embedded into HTML using Repl.it,two tiles will be visible at any time
   \
   2.To start the console,click the run icon
   \
